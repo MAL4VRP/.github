@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="MAEnvs4VRP Logo" width="650">
+  <img src="banner.png" alt="MAL4VRP Logo" width="650">
 </p>
 
 
